@@ -1,0 +1,6 @@
+framework module SFWatchfaceSDK {
+  umbrella header "SFWatchfaceSDK.h"
+  export *
+
+  module * { export * }
+}
