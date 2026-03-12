@@ -16,6 +16,7 @@ import SifliOCore
 - SFWatchfaceSDK 1.0.3
 - SifliOCore 1.0.12
 
+
 ### 1.2 CocoaPod
 
 ```bash
@@ -30,3 +31,4 @@ import SifliOCore
 ## 4. Change Log
 
 - 1.0.3 适配SifliOCore 1.0.12,支持arm64模拟器
+- 1.0.6 适配SifliOCore 2.0.1 SSZipArchive从SifliOCore剥离，使用可选组件SFSSZipArchivePlugin代替。

@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SFWatchfaceSDK"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.6"
   spec.summary      = "SFWatchfaceSDK.表盘推送、视频预览"
 
   # This description is used to generate tags and improve search results.
@@ -138,7 +138,7 @@ Pod::Spec.new do |spec|
    spec.static_framework = true
 
    spec.xcconfig = { 'OTHER_LDFLAGS' => '-lObjC' } 
-   spec.dependency "SifliOCore", "~> 1.0.12"
+   spec.dependency "SifliOCore", "~> 2.0.1"
 
 
 end

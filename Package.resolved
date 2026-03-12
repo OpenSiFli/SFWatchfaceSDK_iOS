@@ -1,0 +1,15 @@
+{
+  "originHash" : "5a479abb869f0a15f85c87d13de4465da99e95ddbdf21b5fcf4471f52266ef24",
+  "pins" : [
+    {
+      "identity" : "sifliocore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OpenSiFli/SifliOCore.git",
+      "state" : {
+        "revision" : "d2256ba527baa25f1926510e4417063e5289e63f",
+        "version" : "2.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
